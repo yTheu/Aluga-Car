@@ -11,7 +11,7 @@ Um sistema simples de locação de carros desenvolvido em Python para gerenciar 
 1. Clone o repositório para sua máquina local:
    ```bash
    git clone https://github.com/yTheu/Aluga-Car.git
-
+   ```
 2. Navegue até o diretório do projeto:
   ```bash
   cd sistema-locacao-carros
