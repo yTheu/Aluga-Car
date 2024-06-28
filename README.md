@@ -14,7 +14,7 @@ Um sistema simples de locação de carros desenvolvido em Python para gerenciar 
    ```
 2. Navegue até o diretório do projeto:
   ```bash
-  cd sistema-locacao-carros
+  cd Aluga-Car
   ```
 3. Execute o script principal:
   ```bash
